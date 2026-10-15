@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\bin\Debug\Tabuada personalizada.exe.config
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\bin\Debug\Tabuada personalizada.exe
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\bin\Debug\Tabuada personalizada.pdb
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\obj\Debug\Tabuada personalizada.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\obj\Debug\Tabuada personalizada.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\obj\Debug\Tabuada personalizada.exe
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\obj\Debug\Tabuada personalizada.pdb
+C:\Users\Lenovo\Documents\Formações\Sistemas Cinel\Desenvolver algoritmos\Programação\Tabuada personalizada\Tabuada personalizada\obj\Debug\Tabuada personalizada.exe.config
